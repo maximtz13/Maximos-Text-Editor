@@ -59,3 +59,4 @@ If your question is still unsolved, please send it to *maximtz99@gmail.com* and 
 
 ## LIVE WEBSITE
 
+[Click Here for Live Website!](https://maximos-text-editor.herokuapp.com)
