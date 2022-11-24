@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "server": "server/server.js",
-    "start": "server/server.js",
+    "start": "",
+    "server": "",
     "build": "",
     "install": "",
     "client": ""
