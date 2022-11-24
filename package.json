@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "",
-    "server": "",
+    "server": "nodemon server.js --ignore client",
+    "start": "nodemon server.js --ignore client",
     "build": "",
     "install": "",
     "client": ""
